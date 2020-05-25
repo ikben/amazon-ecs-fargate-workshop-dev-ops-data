@@ -1,5 +1,5 @@
 # Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved. SPDX-License-Identifier: MIT-0
-baseURL = "https://rddefauw.gitlab.io/fargate_workshop"
+baseURL = "https://amazon-ecs-fargate-workshop-dev-ops-data.onrender.com"
 canonifyURLs = true
 languageCode = "en-us"
 title = "ECS Fargate Workshop"
